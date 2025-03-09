@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dilsha Sachith Weerasinghe</h1>
+<h1 align="center">Hi 👋, I'm Vinura Nanayakkara</h1>
 <h3 align="center">A passionate Web developer from Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilsha-weerasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="dilsha-weerasinghe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinurananayakkara&label=Profile%20views&color=0e75b6&style=flat" alt="Vinurananayakkara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilsha-weerasinghe" alt="dilsha-weerasinghe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vinurananayakkara" alt="Vinurananayakkara" /></a> </p>
 
 - 🔭 I’m currently working on **Fiverr as Freelancer**
 
