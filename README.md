@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinura Nanayakkara</h1>
 <h3 align="center">A passionate Web developer from Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinurananayakkara
-&label=Profile%20views&color=0e75b6&style=flat" alt="Vinurananayakkara
-" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinurananayakkara&label=Profile%20views&color=0e75b6&style=flat" alt="Vinurananayakkara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vinurananayakkara" alt="Vinurananayakkara" /></a> </p>
 
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dilsha_sachith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilsha_sachith" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinurananayakkara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dilsha-weerasinghe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilsha-weerasinghe/" height="30" width="40" /></a>
 <a href="https://fb.com/dilsha.sachith.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilsha.sachith.5" height="30" width="40" /></a>
 <a href="https://instagram.com/https://l.facebook.com/l.php?u=https%3a%2f%2fwww.instagram.com%2fdilsha_sachith%3ffbclid%3diwzxh0bgnhzw0cmtaaar1jjlf51stvzlc1ll3oyb6hppemeozagp0jpdawsmtxfxg-qymlqmwrk8s_aem_vui5oq2tufuuooqoqw7x_q&h=at1jgkfb7z9eoxqfm59ay_pvxlfv8arykhm-2exss7hnphle0bcasmylcjhhh6nfoctqwig-sbn77nc0owgatqkimqdo8u3risfxe9t8nhs6ezx1cdlretppx4bh8h46u9pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://l.facebook.com/l.php?u=https%3a%2f%2fwww.instagram.com%2fdilsha_sachith%3ffbclid%3diwzxh0bgnhzw0cmtaaar1jjlf51stvzlc1ll3oyb6hppemeozagp0jpdawsmtxfxg-qymlqmwrk8s_aem_vui5oq2tufuuooqoqw7x_q&h=at1jgkfb7z9eoxqfm59ay_pvxlfv8arykhm-2exss7hnphle0bcasmylcjhhh6nfoctqwig-sbn77nc0owgatqkimqdo8u3risfxe9t8nhs6ezx1cdlretppx4bh8h46u9pr" height="30" width="40" /></a>
