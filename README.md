@@ -11,7 +11,7 @@
 - 🔭 I’m currently working as a **Freelancer on Fiverr**  
 - 🌱 I’m currently learning **Full-Stack Development & Mobile Apps**  
 - 💬 Ask me about **MERN Stack, Web Development, APIs, and Cloud Computing**  
-- 📫 Reach me at **vinurananayakkara@example.com**  
+- 📫 Reach me at **vinurananayakkara24@gmail.com**  
 - ⚡ Fun fact: **I love exploring new frameworks & dev tools!**  
 
 ---
